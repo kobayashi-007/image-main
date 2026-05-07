@@ -1,0 +1,12 @@
+name = "image-main"
+compatibility_date = "2024-01-01"
+
+[assets]
+directory = "./dist"
+
+kv_namespaces = [
+  { binding = "IMAGE_HOST_KV", id = "", preview_id = "" }
+]
+
+[build]
+command = "npm run build"

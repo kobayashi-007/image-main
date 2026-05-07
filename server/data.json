@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "githubToken": "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",
+      "repo": "kobayashi-007/imgs",
+      "branch": "main",
+      "siteTitle": "GitHub 图床",
+      "loginTransparent": false,
+      "loginOpacity": 0.8,
+      "loginBackground": "",
+      "customDomain": "",
+      "useCustomDomain": false
+    }
+  ]
+}
